@@ -1,18 +1,45 @@
-# 💫 About Me:
-I’m a developer currently focused on full-stack web development, especially backend and API-driven projects. I’m deepening my skills in JavaScript, Node.js, and DSA while exploring real-time systems and creative tech ideas. I enjoy collaborating on unique, problem-solving projects and love experimenting with new technologies.
+## 👋 Hi, I’m Yashwanth Reddy Koppula
 
+I’m a second-year B.Tech Computer Science Engineering student focused on building **backend-heavy, API-driven web systems** and strengthening my foundations in **data structures and algorithms**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_shiva_8634) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanthreddykoppula/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashwanthreddykoppula@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashwanth8634&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashwanth8634&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanth8634&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I enjoy working on projects that involve authentication, real-time data handling, and system-level problem solving. I actively improve my skills through hands-on development, competitive programming, and hackathons.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashwanth8634&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠 What I Work With
+- **Languages:** C, C++, JavaScript  
+- **Backend:** Node.js, Express, REST APIs, JWT Authentication  
+- **Databases:** MongoDB  
+- **Frontend:** HTML, CSS, React  
+- **Tools:** Git, GitHub, Postman, Vercel, Netlify  
+
+---
+
+## 🚀 Featured Projects
+### **Atmo — Weather Analytics Web App**
+Real-time weather platform with live conditions, forecasts, and geolocation-based detection.  
+**Tech:** JavaScript, REST APIs  
+🔗 https://atmo01.netlify.app/
+
+### **CloudNest — Secure Cloud File Storage**
+Authentication-based file storage system with protected uploads and persistent access control.  
+**Tech:** Node.js, Express, MongoDB, JWT  
+🔗 https://cloudnest-897s.onrender.com/
+
+### **MASTMO Club Website & Automation**
+Official club platform with event publishing and automated registrations used in live events.  
+**Tech:** JavaScript, Web Deployment  
+🔗 https://www.mastmovgnt.in/
+
+---
+
+## 📈 Currently Focusing On
+- Advanced **Data Structures & Algorithms**
+- Backend system design fundamentals
+- Writing cleaner, more scalable code
+
+---
+
+## 🤝 Let’s Connect
+- **LinkedIn:** https://www.linkedin.com/in/yashwanthreddykoppula  
+- **Email:** yashwanthreddykoppula@gmail.com
